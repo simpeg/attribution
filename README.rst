@@ -21,7 +21,7 @@ Give credit to people.
 
 A software citation python package, that triggers when you use a function or class.
 
-.. code::
+.. code:: python
 
     import attribution
 
